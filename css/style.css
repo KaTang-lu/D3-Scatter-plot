@@ -1,3 +1,29 @@
+body {
+	font-family: 'Mali', cursive;
+	background-color: rgb(244 244 245);
+}
+
+#p1 {
+	color: white;
+}
+
+.custom-color1 {
+	color: #957DAD; 
+}
+
+.custom-color2 {
+	color: #B3DFB5; 
+}
+
+.custom-color3 {
+	color: #7ABACC; 
+}
+
+.container {
+	width: auto;
+	margin-top: 10px;
+}
+
 #scatter-plot svg {
 	margin-left: auto;
     margin-right: auto;
@@ -28,7 +54,7 @@
 	margin-bottom:10px;
 }
 
-#continent-select {
+#con-select {
 	width: 150px;
 	float:right;
 	margin-top:5px;
